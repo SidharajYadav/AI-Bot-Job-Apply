@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./assets/AIHawk.png">
+<img src="./assets/AIHawkl.png">
 
 <!-- At first glance, the branding and messaging clearly conveys what to expect -->
 
@@ -18,7 +18,7 @@
 <br />
 
 <!-- Message Clarity -->
-## 🚀 Join the AIHawk Community 🚀 
+## 🚀 Join the  Community 🚀 
 
 Connect with like-minded individuals and get the most out of AIHawk.
 
