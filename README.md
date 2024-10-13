@@ -13,7 +13,7 @@
 
   #### 🤖🔍 Your AI-powered job search assistant. Automate applications, get personalized recommendations, and land your dream job faster.
 
- 
+  
 
 <br />
 
