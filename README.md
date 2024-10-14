@@ -9,9 +9,7 @@
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:federico.elia.majo@gmail.com)
 
   # Auto_Jobs_Applier
-  ![CI](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk/actions/workflows/ci.yml/badge.svg)
-
-  #### 🤖🔍 Your AI-powered job search assistant. Automate applications, get personalized recommendations, and land your dream job faster. 
+    #### 🤖🔍 Your AI-powered job search assistant. Automate applications, get personalized recommendations, and land your dream job faster. 
 <br />
 <!-- Message Clarity -->
 ## 🚀 Join the  Community 🚀 
@@ -27,10 +25,6 @@ Connect with like-minded individuals and get the most out of AIHawk.
 🔔 **Stay updated:** Get the latest news and updates on AIHawk.
 
 <!-- Strong Call to Action -->
-### Join Now 👇
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
-)](https://t.me/AIhawkCommunity)
-
 <!-- 🚀 **Join Our Telegram Community!** 🚀
 
 Join our **Telegram community** for:
