@@ -662,7 +662,7 @@ Auto_Jobs_Applier_AIHawk provides a significant advantage in the modern job mark
 
 Auto_Jobs_Applier_AIHawk is still in beta, and your feedback, suggestions, and contributions are highly valued. Feel free to open issues, suggest enhancements, or submit pull requests to help improve the project. Let's work together to make Auto_Jobs_Applier_AIHawk an even more powerful tool for job seekers worldwide.
 
-
+ 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
