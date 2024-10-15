@@ -19,7 +19,7 @@ Connect with like-minded individuals and get the most out of AIHawk.
 💡 **Get support:** Ask questions, troubleshoot issues, and find solutions.
 
 🗣️ **Share knowledge:** Share your experiences, tips, and best practices.
-
+ 
 🤝 **Network:** Connect with other professionals and explore new opportunities.
 
 🔔 **Stay updated:** Get the latest news and updates on AIHawk.
