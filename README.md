@@ -23,17 +23,6 @@ Connect with like-minded individuals and get the most out of AIHawk.
  
 🔔 **Stay updated:** Get the latest news and updates on AIHawk.
 
-
-
-Join our **Telegram community** for:
-- **Support with AIHawk software**
-- **Share your experiences** with AIhawk and learn from others
-- **Job search tips** and **resume advice**
-- **Idea exchange** and resources for your projects
-
-<-- **[Join now!](https://t.me/AIhawkCommunity)** -->
-</div>
-
 ## Table of Contents
 
 1. [Introduction](#introduction)
