@@ -23,8 +23,7 @@ Connect with like-minded individuals and get the most out of AIHawk.
  
 🔔 **Stay updated:** Get the latest news and updates on AIHawk.
 
-<!-- Strong Call to Action -->
-<!-- 🚀 **Join Our Telegram Community!** 🚀
+
 
 Join our **Telegram community** for:
 - **Support with AIHawk software**
