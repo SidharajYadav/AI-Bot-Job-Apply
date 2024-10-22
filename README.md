@@ -1,5 +1,3 @@
-<div align="center">
-<img src="./assets/AIHawkl.png">
 
 <!-- At first glance, the branding and messaging clearly conveys what to expect -->
   # Auto_Jobs_Applier
