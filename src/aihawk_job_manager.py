@@ -8,7 +8,7 @@ from pathlib import Path
 from inputimeout import inputimeout, TimeoutOccurred
 from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.common.by import By
-
+ 
 import src.utils as utils
 from app_config import MINIMUM_WAIT_TIME
 from src.job import Job
