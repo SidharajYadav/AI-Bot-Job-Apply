@@ -2,17 +2,10 @@
 <img src="./assets/AIHawkl.png">
 
 <!-- At first glance, the branding and messaging clearly conveys what to expect -->
-
-
-  <!-- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AIhawkCommunity) -->  
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:federico.elia.majo@gmail.com) 
-
   # Auto_Jobs_Applier
     #### 🤖🔍 Your AI-powered job search assistant. Automate applications, get personalized recommendations, and land your dream job faster. 
 <br />
 <!-- Message Clarity -->
-## 🚀 Join the  Community 🚀 
-
 Connect with like-minded individuals and get the most out of AIHawk.
 
 💡 **Get support:** Ask questions, troubleshoot issues, and find solutions.
