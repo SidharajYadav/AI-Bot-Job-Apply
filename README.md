@@ -155,7 +155,7 @@ This file defines your job search parameters and bot behavior. Each section cont
 - `date:`
   - Choose one time range for job postings by setting it to `true`, others to `false`
 
-
+ 
 - `positions:`
   - List job titles you're interested in, one per line
   - Example:
