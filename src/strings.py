@@ -12,7 +12,7 @@ Question: What is your city?
 
 Personal Information: {resume_section}
 Question: {question}
-"""
+""" 
 
 # Self Identification Template
 self_identification_template = """
