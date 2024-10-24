@@ -10,7 +10,7 @@ from loguru import logger
 from app_config import MINIMUM_LOG_LEVEL
 
 log_file = "app_log.log"
-
+ 
 
 if MINIMUM_LOG_LEVEL in ["DEBUG", "TRACE", "INFO", "WARNING", "ERROR", "CRITICAL"]:
     logger.remove()
