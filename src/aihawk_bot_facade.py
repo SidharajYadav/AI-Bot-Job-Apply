@@ -1,6 +1,5 @@
 from loguru import logger
 
-
 class AIHawkBotState:
     def __init__(self):
         logger.debug("Initializing AIHawkBotState")
