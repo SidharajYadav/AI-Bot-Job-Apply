@@ -2,7 +2,6 @@ from dataclasses import dataclass
 
 from loguru import logger
 
-
 @dataclass
 class Job:
     title: str
